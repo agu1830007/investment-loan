@@ -1,0 +1,247 @@
+body {
+    background: #f4f6fb;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#loginForm {
+    background: #fff;
+    border-radius: 1.2rem;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.08), 0 1.5px 4px rgba(0,0,0,0.04);
+    padding: 2.5rem 2rem 2rem 2rem;
+    max-width: 370px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#loginForm h2 {
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 2rem;
+}
+
+#loginForm input[type="text"] {
+    width: 100%;
+    padding: 0.85rem 1rem;
+    margin-bottom: 1.1rem;
+    border: 1.5px solid #e0e3eb;
+    border-radius: 0.6rem;
+    font-size: 1rem;
+    background: #f8fafc;
+    transition: border 0.2s, box-shadow 0.2s;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.password-container {
+    position: relative;
+    width: 100%;
+    margin-bottom: 1.1rem;
+}
+
+#loginForm input[type="password"] {
+    width: 100%;
+    padding: 0.85rem 2.7rem 0.85rem 1rem;
+    border: 1.5px solid #e0e3eb;
+    border-radius: 0.6rem;
+    font-size: 1rem;
+    background: #f8fafc;
+    transition: border 0.2s, box-shadow 0.2s;
+    outline: none;
+    box-sizing: border-box;
+}
+
+#loginForm input[type="text"]:focus,
+#loginForm input[type="password"]:focus {
+    border: 1.5px solid #007bff;
+    background: #fff;
+    box-shadow: 0 0 0 2px #007bff22;
+}
+
+#loginForm .input-error {
+    border: 1.5px solid #e74c3c !important;
+    background: #fff6f6 !important;
+}
+
+.input-error-message {
+    color: #e74c3c;
+    font-size: 0.93rem;
+    margin-top: -0.8rem;
+    margin-bottom: 0.8rem;
+    padding-left: 0.2rem;
+}
+
+.input-success-message {
+    color: #1a7f37;
+    font-size: 0.98rem;
+    margin-bottom: 0.5rem;
+    margin-top: -0.7rem;
+    padding-left: 2px;
+    min-height: 1.1em;
+}
+
+#loginForm button[type="submit"] {
+    width: 100%;
+    padding: 0.9rem 0;
+    background: linear-gradient(90deg, #007bff 60%, #0056b3 100%);
+    color: #fff;
+    border: none;
+    border-radius: 0.6rem;
+    font-size: 1.08rem;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 0.5rem;
+    transition: background 0.2s, box-shadow 0.2s;
+    box-shadow: 0 2px 8px rgba(0,123,255,0.08);
+}
+
+#loginForm button[type="submit"]:hover {
+    background: linear-gradient(90deg, #0056b3 0%, #007bff 100%);
+    box-shadow: 0 4px 16px rgba(0,123,255,0.13);
+}
+
+#loginForm p {
+    margin-top: 1.3rem;
+    text-align: center;
+    color: #555;
+    font-size: 1rem;
+}
+
+#loginForm a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+}
+#loginForm a:hover {
+    text-decoration: underline;
+}
+
+.toggle-password {
+    position: absolute;
+    top: 38%;
+    right: 1rem;
+    transform: translateY(-50%);
+    color: #888;
+    transition: color 0.2s;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.toggle-password:hover {
+    color: #007bff;
+}
+
+@media (max-width: 500px) {
+    #loginForm {
+        padding: 1.2rem 0.7rem 1.5rem 0.7rem;
+        max-width: 98vw;
+    }
+}
+/* Error and success message styles for forms */
+.input-error-message {
+  color: #b00;
+  font-size: 0.98rem;
+  margin-bottom: 0.5rem;
+  margin-top: -0.7rem;
+  padding-left: 2px;
+  min-height: 1.1em;
+}
+.input-success-message {
+  color: #1a7f2e;
+  font-size: 0.98rem;
+  margin-bottom: 0.5rem;
+  margin-top: -0.7rem;
+  padding-left: 2px;
+  min-height: 1.1em;
+}
+.input-error {
+  border: 1.5px solid #b00 !important;
+  background: #fff0f0 !important;
+}
+body {
+    min-height: 100vh;
+    background: #f8f9fa;
+}
+#loginForm {
+    background: #fff;
+    padding: 2rem 2.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    min-width: 300px;
+    max-width: 90vw;
+    margin: 0 auto;
+}
+#loginForm h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+@keyframes loginFadeIn {
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+#loginForm input {
+    margin-bottom: 1rem;
+    width: 100%;
+    padding: 0.7rem 1rem;
+}
+
+#loginForm input:last-of-type {
+    margin-bottom: 1.5rem;
+}
+
+#loginForm button {
+    width: 100%;
+    padding: 0.8rem 0;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+#loginForm button:hover, #loginForm button:focus {
+    background: #0056b3;
+    transform: translateY(-2px) scale(1.03);
+    box-shadow: 0 4px 16px rgba(0,123,255,0.18);
+    transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+}
+#loginForm p {
+    margin-top: 1rem;
+    text-align: center;
+}
+.auth-success {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+    padding: 0.8rem 1.2rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    transition: opacity 0.6s;
+}
+.auth-error {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+    padding: 0.8rem 1.2rem;
+    border-radius: 0.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 1rem;
+    transition: opacity 0.6s;
+}
+
+
+

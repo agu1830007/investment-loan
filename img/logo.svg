@@ -1,0 +1,10 @@
+<svg width="180" height="56" viewBox="0 0 360 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <rect x="10" y="16" width="80" height="80" rx="20" fill="#222"/>
+    <path d="M34 80L70 32" stroke="#00c48d" stroke-width="8" stroke-linecap="round"/>
+    <path d="M34 32L70 80" stroke="#00c48d" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="50" cy="56" r="14" fill="#fff" stroke="#00c48d" stroke-width="4"/>
+    <text x="100" y="60" font-family="Segoe UI, Arial, sans-serif" font-size="38" fill="#222" font-weight="bold" letter-spacing="1">Excel</text>
+    <text x="100" y="95" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#00c48d" font-weight="bold">Investments</text>
+  </g>
+</svg>

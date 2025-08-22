@@ -1,0 +1,385 @@
+[2025-07-21 09:28:54] No username in session. Session: []
+[2025-07-21 09:28:54] Username is empty, cannot fetch user_id.
+[2025-07-21 09:28:54] user_id is null for username: 
+[2025-07-21 09:28:54] Portfolio summary skipped: user_id is not set.
+[2025-07-23 18:41:40] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 18:41:40] Username is empty, cannot fetch user_id.
+[2025-07-23 18:41:40] user_id is null for username: 
+[2025-07-23 18:41:40] Portfolio summary skipped: user_id is not set.
+[2025-07-23 18:52:51] DEBUG: Calculating portfolio for user_id=3
+[2025-07-23 18:52:51] DEBUG: totalPayment=210000
+[2025-07-23 18:52:51] DEBUG: totalWithdrawal=0
+[2025-07-23 18:52:51] DEBUG: totalInvested=110500
+[2025-07-23 18:52:51] DEBUG: totalLoanPrincipal=0
+[2025-07-23 18:52:51] DEBUG: totalRepayments=7800
+[2025-07-23 18:52:51] DEBUG: cashBalance=91700
+[2025-07-23 18:52:51] DEBUG: portfolioValue=91700
+[2025-07-23 18:54:06] DEBUG: Calculating portfolio for user_id=3
+[2025-07-23 18:54:06] DEBUG: totalPayment=210000
+[2025-07-23 18:54:06] DEBUG: totalWithdrawal=0
+[2025-07-23 18:54:06] DEBUG: totalInvested=110500
+[2025-07-23 18:54:06] DEBUG: totalLoanPrincipal=0
+[2025-07-23 18:54:06] DEBUG: totalRepayments=7800
+[2025-07-23 18:54:06] DEBUG: cashBalance=91700
+[2025-07-23 18:54:06] DEBUG: portfolioValue=91700
+[2025-07-23 18:54:07] DEBUG: Calculating portfolio for user_id=3
+[2025-07-23 18:54:07] DEBUG: totalPayment=210000
+[2025-07-23 18:54:07] DEBUG: totalWithdrawal=0
+[2025-07-23 18:54:07] DEBUG: totalInvested=110500
+[2025-07-23 18:54:07] DEBUG: totalLoanPrincipal=0
+[2025-07-23 18:54:07] DEBUG: totalRepayments=7800
+[2025-07-23 18:54:07] DEBUG: cashBalance=91700
+[2025-07-23 18:54:07] DEBUG: portfolioValue=91700
+[2025-07-23 18:54:16] DEBUG: Calculating portfolio for user_id=2
+[2025-07-23 18:54:16] DEBUG: totalPayment=23000
+[2025-07-23 18:54:16] DEBUG: totalWithdrawal=5000
+[2025-07-23 18:54:16] DEBUG: totalInvested=3000
+[2025-07-23 18:54:16] DEBUG: totalLoanPrincipal=4000
+[2025-07-23 18:54:16] DEBUG: totalRepayments=9550
+[2025-07-23 18:54:16] DEBUG: cashBalance=5450
+[2025-07-23 18:54:16] DEBUG: portfolioValue=1450
+[2025-07-23 18:55:10] DEBUG: Calculating portfolio for user_id=2
+[2025-07-23 18:55:10] DEBUG: totalPayment=23000
+[2025-07-23 18:55:10] DEBUG: totalWithdrawal=5000
+[2025-07-23 18:55:10] DEBUG: totalInvested=3000
+[2025-07-23 18:55:10] DEBUG: totalLoanPrincipal=4000
+[2025-07-23 18:55:10] DEBUG: totalRepayments=9550
+[2025-07-23 18:55:10] DEBUG: cashBalance=5450
+[2025-07-23 18:55:10] DEBUG: portfolioValue=1450
+[2025-07-23 19:34:00] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 19:34:00] Username is empty, cannot fetch user_id.
+[2025-07-23 19:34:00] user_id is null for username: 
+[2025-07-23 19:34:00] Portfolio summary skipped: user_id is not set.
+[2025-07-23 19:34:02] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 19:34:02] Username is empty, cannot fetch user_id.
+[2025-07-23 19:34:02] user_id is null for username: 
+[2025-07-23 19:34:02] Portfolio summary skipped: user_id is not set.
+[2025-07-23 20:01:26] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 20:01:26] Username is empty, cannot fetch user_id.
+[2025-07-23 20:01:26] user_id is null for username: 
+[2025-07-23 20:01:26] Portfolio summary skipped: user_id is not set.
+[2025-07-23 20:01:26] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 20:01:26] Username is empty, cannot fetch user_id.
+[2025-07-23 20:01:26] user_id is null for username: 
+[2025-07-23 20:01:26] Portfolio summary skipped: user_id is not set.
+[2025-07-23 20:01:27] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 20:01:27] Username is empty, cannot fetch user_id.
+[2025-07-23 20:01:27] user_id is null for username: 
+[2025-07-23 20:01:27] Portfolio summary skipped: user_id is not set.
+[2025-07-23 20:01:27] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 20:01:27] Username is empty, cannot fetch user_id.
+[2025-07-23 20:01:27] user_id is null for username: 
+[2025-07-23 20:01:27] Portfolio summary skipped: user_id is not set.
+[2025-07-23 20:01:27] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847856","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-23 20:01:27] Username is empty, cannot fetch user_id.
+[2025-07-23 20:01:27] user_id is null for username: 
+[2025-07-23 20:01:27] Portfolio summary skipped: user_id is not set.
+2025-07-24 00:03:02 [AJAX_INVEST_BALANCE] user_id=2, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+[2025-07-24 00:45:11] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:45:11] Username is empty, cannot fetch user_id.
+[2025-07-24 00:45:11] user_id is null for username: 
+[2025-07-24 00:45:11] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:50:21] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:50:21] Username is empty, cannot fetch user_id.
+[2025-07-24 00:50:21] user_id is null for username: 
+[2025-07-24 00:50:21] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:54:06] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:54:06] Username is empty, cannot fetch user_id.
+[2025-07-24 00:54:06] user_id is null for username: 
+[2025-07-24 00:54:06] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:54:08] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:54:08] Username is empty, cannot fetch user_id.
+[2025-07-24 00:54:08] user_id is null for username: 
+[2025-07-24 00:54:08] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:55:00] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:55:00] Username is empty, cannot fetch user_id.
+[2025-07-24 00:55:00] user_id is null for username: 
+[2025-07-24 00:55:00] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:55:33] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:55:33] Username is empty, cannot fetch user_id.
+[2025-07-24 00:55:33] user_id is null for username: 
+[2025-07-24 00:55:33] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:56:23] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:56:23] Username is empty, cannot fetch user_id.
+[2025-07-24 00:56:23] user_id is null for username: 
+[2025-07-24 00:56:23] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:57:50] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:57:50] Username is empty, cannot fetch user_id.
+[2025-07-24 00:57:50] user_id is null for username: 
+[2025-07-24 00:57:50] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:59:21] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:59:21] Username is empty, cannot fetch user_id.
+[2025-07-24 00:59:21] user_id is null for username: 
+[2025-07-24 00:59:21] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:59:22] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:59:22] Username is empty, cannot fetch user_id.
+[2025-07-24 00:59:22] user_id is null for username: 
+[2025-07-24 00:59:22] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:59:24] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:59:24] Username is empty, cannot fetch user_id.
+[2025-07-24 00:59:24] user_id is null for username: 
+[2025-07-24 00:59:24] Portfolio summary skipped: user_id is not set.
+[2025-07-24 00:59:47] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 00:59:47] Username is empty, cannot fetch user_id.
+[2025-07-24 00:59:47] user_id is null for username: 
+[2025-07-24 00:59:47] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:03:24] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:03:24] Username is empty, cannot fetch user_id.
+[2025-07-24 01:03:24] user_id is null for username: 
+[2025-07-24 01:03:24] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:04:47] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:04:47] Username is empty, cannot fetch user_id.
+[2025-07-24 01:04:47] user_id is null for username: 
+[2025-07-24 01:04:47] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:08:20] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:08:20] Username is empty, cannot fetch user_id.
+[2025-07-24 01:08:20] user_id is null for username: 
+[2025-07-24 01:08:20] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:08:21] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:08:21] Username is empty, cannot fetch user_id.
+[2025-07-24 01:08:21] user_id is null for username: 
+[2025-07-24 01:08:21] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:10:08] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:10:08] Username is empty, cannot fetch user_id.
+[2025-07-24 01:10:08] user_id is null for username: 
+[2025-07-24 01:10:08] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:11:39] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:11:39] Username is empty, cannot fetch user_id.
+[2025-07-24 01:11:39] user_id is null for username: 
+[2025-07-24 01:11:39] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:34:21] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:34:21] Username is empty, cannot fetch user_id.
+[2025-07-24 01:34:21] user_id is null for username: 
+[2025-07-24 01:34:21] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:34:35] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:34:35] Username is empty, cannot fetch user_id.
+[2025-07-24 01:34:35] user_id is null for username: 
+[2025-07-24 01:34:35] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:35:53] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:35:53] Username is empty, cannot fetch user_id.
+[2025-07-24 01:35:53] user_id is null for username: 
+[2025-07-24 01:35:53] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:36:56] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:36:56] Username is empty, cannot fetch user_id.
+[2025-07-24 01:36:56] user_id is null for username: 
+[2025-07-24 01:36:56] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:37:51] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:37:51] Username is empty, cannot fetch user_id.
+[2025-07-24 01:37:51] user_id is null for username: 
+[2025-07-24 01:37:51] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:38:30] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:38:30] Username is empty, cannot fetch user_id.
+[2025-07-24 01:38:30] user_id is null for username: 
+[2025-07-24 01:38:30] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:38:45] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:38:45] Username is empty, cannot fetch user_id.
+[2025-07-24 01:38:45] user_id is null for username: 
+[2025-07-24 01:38:45] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:43:09] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:43:09] Username is empty, cannot fetch user_id.
+[2025-07-24 01:43:09] user_id is null for username: 
+[2025-07-24 01:43:09] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:43:17] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:43:17] Username is empty, cannot fetch user_id.
+[2025-07-24 01:43:17] user_id is null for username: 
+[2025-07-24 01:43:17] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:44:38] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:44:38] Username is empty, cannot fetch user_id.
+[2025-07-24 01:44:38] user_id is null for username: 
+[2025-07-24 01:44:38] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:50:36] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:50:36] Username is empty, cannot fetch user_id.
+[2025-07-24 01:50:36] user_id is null for username: 
+[2025-07-24 01:50:36] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:50:53] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:50:53] Username is empty, cannot fetch user_id.
+[2025-07-24 01:50:53] user_id is null for username: 
+[2025-07-24 01:50:53] Portfolio summary skipped: user_id is not set.
+[2025-07-24 01:54:21] No username in session. Session: {"email":"aguchinedu28@gmail.com","phone":"09134847855","user_id":2,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 01:54:21] Username is empty, cannot fetch user_id.
+[2025-07-24 01:54:21] user_id is null for username: 
+[2025-07-24 01:54:21] Portfolio summary skipped: user_id is not set.
+[2025-07-24 03:30:16] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 03:30:16] Username is empty, cannot fetch user_id.
+[2025-07-24 03:30:16] user_id is null for username: 
+[2025-07-24 03:30:16] Portfolio summary skipped: user_id is not set.
+2025-07-24 03:30:44 [AJAX_INVEST_BALANCE] user_id=4, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+[2025-07-24 03:32:18] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 03:32:18] Username is empty, cannot fetch user_id.
+[2025-07-24 03:32:18] user_id is null for username: 
+[2025-07-24 03:32:18] Portfolio summary skipped: user_id is not set.
+[2025-07-24 04:14:33] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 04:14:33] Username is empty, cannot fetch user_id.
+[2025-07-24 04:14:33] user_id is null for username: 
+[2025-07-24 04:14:33] Portfolio summary skipped: user_id is not set.
+[2025-07-24 14:52:50] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 14:52:50] Username is empty, cannot fetch user_id.
+[2025-07-24 14:52:50] user_id is null for username: 
+[2025-07-24 14:52:50] Portfolio summary skipped: user_id is not set.
+[2025-07-24 14:53:21] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 14:53:21] Username is empty, cannot fetch user_id.
+[2025-07-24 14:53:21] user_id is null for username: 
+[2025-07-24 14:53:21] Portfolio summary skipped: user_id is not set.
+[2025-07-24 14:53:45] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 14:53:45] Username is empty, cannot fetch user_id.
+[2025-07-24 14:53:45] user_id is null for username: 
+[2025-07-24 14:53:45] Portfolio summary skipped: user_id is not set.
+[2025-07-24 14:54:05] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 14:54:05] Username is empty, cannot fetch user_id.
+[2025-07-24 14:54:05] user_id is null for username: 
+[2025-07-24 14:54:05] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:10:43] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:10:43] Username is empty, cannot fetch user_id.
+[2025-07-24 15:10:43] user_id is null for username: 
+[2025-07-24 15:10:43] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:10:43] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:10:43] Username is empty, cannot fetch user_id.
+[2025-07-24 15:10:43] user_id is null for username: 
+[2025-07-24 15:10:43] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:11:28] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:11:28] Username is empty, cannot fetch user_id.
+[2025-07-24 15:11:28] user_id is null for username: 
+[2025-07-24 15:11:28] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:12:02] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:12:02] Username is empty, cannot fetch user_id.
+[2025-07-24 15:12:02] user_id is null for username: 
+[2025-07-24 15:12:02] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:12:35] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:12:35] Username is empty, cannot fetch user_id.
+[2025-07-24 15:12:35] user_id is null for username: 
+[2025-07-24 15:12:35] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:16:09] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:16:09] Username is empty, cannot fetch user_id.
+[2025-07-24 15:16:09] user_id is null for username: 
+[2025-07-24 15:16:09] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:28:00] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:28:00] Username is empty, cannot fetch user_id.
+[2025-07-24 15:28:00] user_id is null for username: 
+[2025-07-24 15:28:00] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:28:01] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:28:01] Username is empty, cannot fetch user_id.
+[2025-07-24 15:28:01] user_id is null for username: 
+[2025-07-24 15:28:01] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:28:01] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:28:01] Username is empty, cannot fetch user_id.
+[2025-07-24 15:28:01] user_id is null for username: 
+[2025-07-24 15:28:01] Portfolio summary skipped: user_id is not set.
+[2025-07-24 15:48:33] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 15:48:33] Username is empty, cannot fetch user_id.
+[2025-07-24 15:48:33] user_id is null for username: 
+[2025-07-24 15:48:33] Portfolio summary skipped: user_id is not set.
+[2025-07-24 16:16:30] No username in session. Session: {"email":"Debbie@gmail.com","phone":"07082680124","user_id":4,"user":"David Glad","is_admin":1,"success":"Registration successful! Redirecting..."}
+[2025-07-24 16:16:30] Username is empty, cannot fetch user_id.
+[2025-07-24 16:16:30] user_id is null for username: 
+[2025-07-24 16:16:30] Portfolio summary skipped: user_id is not set.
+[2025-07-24 16:22:23] No username in session. Session: {"email":"alvinsmiles0@gmail.com","phone":"08151864969","user_id":5,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 16:22:23] Username is empty, cannot fetch user_id.
+[2025-07-24 16:22:23] user_id is null for username: 
+[2025-07-24 16:22:23] Portfolio summary skipped: user_id is not set.
+[2025-07-24 16:25:11] No username in session. Session: {"email":"alvinsmiles0@gmail.com","phone":"08151864969","user_id":5,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 16:25:11] Username is empty, cannot fetch user_id.
+[2025-07-24 16:25:11] user_id is null for username: 
+[2025-07-24 16:25:11] Portfolio summary skipped: user_id is not set.
+2025-07-24 16:27:33 [AJAX_INVEST_BALANCE] user_id=5, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+[2025-07-24 16:31:54] No username in session. Session: {"email":"alvinsmiles0@gmail.com","phone":"08151864969","user_id":5,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 16:31:54] Username is empty, cannot fetch user_id.
+[2025-07-24 16:31:54] user_id is null for username: 
+[2025-07-24 16:31:54] Portfolio summary skipped: user_id is not set.
+[2025-07-24 16:35:42] No username in session. Session: {"email":"alvinsmiles0@gmail.com","phone":"08151864969","user_id":5,"success":"Registration successful! Redirecting...","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 16:35:42] Username is empty, cannot fetch user_id.
+[2025-07-24 16:35:42] user_id is null for username: 
+[2025-07-24 16:35:42] Portfolio summary skipped: user_id is not set.
+2025-07-24 16:35:58 [AJAX_INVEST_BALANCE] user_id=5, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+2025-07-24 16:45:32 [AJAX_INVEST_BALANCE] user_id=5, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+[2025-07-24 20:46:45] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-24 20:46:45] Username is empty, cannot fetch user_id.
+[2025-07-24 20:46:45] user_id is null for username: 
+[2025-07-24 20:46:45] Portfolio summary skipped: user_id is not set.
+[2025-07-26 20:44:02] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-26 20:44:02] Username is empty, cannot fetch user_id.
+[2025-07-26 20:44:02] user_id is null for username: 
+[2025-07-26 20:44:02] Portfolio summary skipped: user_id is not set.
+2025-07-26 20:44:39 [AJAX_INVEST_BALANCE] user_id=3, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+[2025-07-26 20:57:01] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-26 20:57:01] Username is empty, cannot fetch user_id.
+[2025-07-26 20:57:01] user_id is null for username: 
+[2025-07-26 20:57:01] Portfolio summary skipped: user_id is not set.
+2025-07-26 20:57:25 [AJAX_INVEST_BALANCE] user_id=3, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+2025-07-26 21:07:19 [AJAX_INVEST_BALANCE] user_id=3, payments=0, withdrawals=0, investments=0, repayments=0, user_balance=0
+[2025-07-26 21:22:08] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-26 21:22:08] Username is empty, cannot fetch user_id.
+[2025-07-26 21:22:08] user_id is null for username: 
+[2025-07-26 21:22:08] Portfolio summary skipped: user_id is not set.
+[2025-07-27 02:56:41] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":3,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-27 02:56:41] Username is empty, cannot fetch user_id.
+[2025-07-27 02:56:41] user_id is null for username: 
+[2025-07-27 02:56:41] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:06:20] Username 'David Smith' not found in users table.
+[2025-07-27 03:06:20] user_id is null for username: David Smith
+[2025-07-27 03:06:20] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:06:22] Username 'David Smith' not found in users table.
+[2025-07-27 03:06:22] user_id is null for username: David Smith
+[2025-07-27 03:06:22] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:11:56] Username 'David Smit' not found in users table.
+[2025-07-27 03:11:56] user_id is null for username: David Smit
+[2025-07-27 03:11:56] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:11:58] Username 'David Smit' not found in users table.
+[2025-07-27 03:11:58] user_id is null for username: David Smit
+[2025-07-27 03:11:58] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:12:23] Username 'David Smit' not found in users table.
+[2025-07-27 03:12:23] user_id is null for username: David Smit
+[2025-07-27 03:12:23] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:12:33] Username 'David Smit' not found in users table.
+[2025-07-27 03:12:33] user_id is null for username: David Smit
+[2025-07-27 03:12:33] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:13:05] Username 'David Smit' not found in users table.
+[2025-07-27 03:13:05] user_id is null for username: David Smit
+[2025-07-27 03:13:05] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:16:10] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":false,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-27 03:16:10] Username is empty, cannot fetch user_id.
+[2025-07-27 03:16:10] user_id is null for username: 
+[2025-07-27 03:16:10] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:19:43] Username 'David Smith' not found in users table.
+[2025-07-27 03:19:43] user_id is null for username: David Smith
+[2025-07-27 03:19:43] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:19:46] Username 'David Smith' not found in users table.
+[2025-07-27 03:19:46] user_id is null for username: David Smith
+[2025-07-27 03:19:46] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:20:14] Username 'David Smith' not found in users table.
+[2025-07-27 03:20:14] user_id is null for username: David Smith
+[2025-07-27 03:20:14] Portfolio summary skipped: user_id is not set.
+[2025-07-27 03:20:29] No username in session. Session: {"email":"alvinsmiles00@gmail.com","phone":"08164737930","user_id":false,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-07-27 03:20:29] Username is empty, cannot fetch user_id.
+[2025-07-27 03:20:29] user_id is null for username: 
+[2025-07-27 03:20:29] Portfolio summary skipped: user_id is not set.
+[2025-07-31 19:24:17] No username in session. Session: []
+[2025-07-31 19:24:17] Username is empty, cannot fetch user_id.
+[2025-07-31 19:24:17] user_id is null for username: 
+[2025-07-31 19:24:17] Portfolio summary skipped: user_id is not set.
+[2025-07-31 19:26:25] No username in session. Session: []
+[2025-07-31 19:26:25] Username is empty, cannot fetch user_id.
+[2025-07-31 19:26:25] user_id is null for username: 
+[2025-07-31 19:26:25] Portfolio summary skipped: user_id is not set.
+[2025-08-06 00:55:04] No username in session. Session: {"email":"aguchukwu70@gmail.com","phone":"09127890346","user_id":7,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-08-06 00:55:04] Username is empty, cannot fetch user_id.
+[2025-08-06 00:55:04] user_id is null for username: 
+[2025-08-06 00:55:04] Portfolio summary skipped: user_id is not set.
+[2025-08-06 01:06:57] No username in session. Session: {"email":"aguchukwu70@gmail.com","phone":"09127890346","user_id":7,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-08-06 01:06:57] Username is empty, cannot fetch user_id.
+[2025-08-06 01:06:57] user_id is null for username: 
+[2025-08-06 01:06:57] Portfolio summary skipped: user_id is not set.
+[2025-08-06 01:20:25] No username in session. Session: {"email":"aguchukwu70@gmail.com","phone":"09127890346","user_id":7,"user":"Austine Chinasa Deborah","is_admin":1}
+[2025-08-06 01:20:25] Username is empty, cannot fetch user_id.
+[2025-08-06 01:20:25] user_id is null for username: 
+[2025-08-06 01:20:25] Portfolio summary skipped: user_id is not set.
+[2025-08-12 19:50:44] No username in session. Session: {"email":"aguaustine@gmail.com","phone":"09156839920","user_id":9,"success":"Registration successful! Please log in.","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-08-12 19:50:44] Username is empty, cannot fetch user_id.
+[2025-08-12 19:50:44] user_id is null for username: 
+[2025-08-12 19:50:44] Portfolio summary skipped: user_id is not set.
+[2025-08-20 17:20:26] Username 'Austine Chinasa Deborah' not found in users table.
+[2025-08-20 17:20:26] user_id is null for username: Austine Chinasa Deborah
+[2025-08-20 17:20:26] Portfolio summary skipped: user_id is not set.
+[2025-08-20 17:50:14] No username in session. Session: {"email":"aguchukwudi30@gmail.com","phone":"Agu Austine","user_id":2,"success":"Registration successful! Please log in.","user":"Austine Chinasa Deborah","is_admin":1}
+[2025-08-20 17:50:14] Username is empty, cannot fetch user_id.
+[2025-08-20 17:50:14] user_id is null for username: 
+[2025-08-20 17:50:14] Portfolio summary skipped: user_id is not set.
