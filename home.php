@@ -656,7 +656,7 @@ header{
                     <div class="testimonial-item">
                         <img src="images/person-f-9.webp" alt="Sarah Williams" class="testimonial-img">
                         <div class="testimonial-content">
-                            <p>"Excel Investment has been a game-changer for my investments. Their expertise is unmatched! I appreciate their transparency and dedication to helping clients succeed. I recommend them to anyone serious about growing their wealth."</p>
+                            <p>"Excel Investment has been a game-changer for my investments. Their expertise is unmatched! I appreciate their transparency and dedication to helping clients succeed. I recommend them to anyone serious about growing their wealth and assets with excel investment."</p>
                             <p><strong>- Sarah Williams</strong></p>
                         </div>
                     </div>
